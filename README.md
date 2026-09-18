@@ -248,4 +248,4 @@ This repository serves as the official landing page for Trillian. The software i
 **Get the most recent version of Trillian today!**
 
 ---
-**Last updated:** 2026-09-18 14:10:11 UTC
+**Last updated:** 2026-09-18 18:06:59 UTC
